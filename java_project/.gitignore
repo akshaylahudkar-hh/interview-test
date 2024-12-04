@@ -1,0 +1,15 @@
+/build
+/bin
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+*.iml
+.project
+.vscode
+.idea/
+.eclipse
+.gradle
+.classpath
+.settings/
