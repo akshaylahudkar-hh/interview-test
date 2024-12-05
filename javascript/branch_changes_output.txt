@@ -1,0 +1,33 @@
+### Directory Structure:
+
+interviews-services_akshaylahudkar-main/javascript/
+  .gitignore
+  javascript/
+    .eslintrc.js
+    Dockerfile
+    README.md
+    controllers/
+      treeControllers.js
+    database.md
+    db.js
+    docker-compose.yml
+    index.js
+    index.test.js
+    models/
+      TreeNode.js
+    package-lock.json
+    package.json
+    routes/
+      treeRoutes.js
+    services/
+      treeService.js
+    swagger/
+      swaggerOptions.js
+    test/
+      MockModel.js
+      TreeUtils.test.js
+      index.test.js
+    utils/
+      treeUtils.js
+
+### File Contents:

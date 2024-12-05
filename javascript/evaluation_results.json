@@ -1,0 +1,9 @@
+{
+    "branches": [
+        "main",
+        "test1"
+    ],
+    "extra_branch": "test1",
+    "commit_check": null,
+    "lint_check": "Linter issues found on branch 'test1':\n\n> hh-service-challenge@1.2.0 lint\n> eslint --fix --ext .js, .\n\n"
+}
